@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ray Martín</h1>
-<h3 align="left">My name is Ray Martín and I am a junior frontend web developer from the Canary Islands. I love working with technologies like React + VueJS + TailwindCSS, as well as with the MERN stack.</h3>
+<h3 align="left">My name is Ray Martín and I'm a Junior FrontEnd Web Developer from the Canary Islands. I love working with technologies like React + VueJS + TailwindCSS, as well as with the MERN stack.</h3>
 
 These are some of my side projects:
 
@@ -17,8 +17,6 @@ You can reach out to me on my <a href="https://raymartin.es">website</a> or at m
 - 💬 Ask me about **React, JavaScript, HTML, CSS, Tailwind and so on...**
 
 - 📫 How to reach me **juanmg92@gmail.com**
-
-- ⚡ Fun fact **I think im a web developer**
 
 <!-- STATS -->
 
@@ -156,8 +154,3 @@ You can reach out to me on my <a href="https://raymartin.es">website</a> or at m
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanr92&show_icons=true&locale=en&layout=compact" alt="juanr92" /></p>
 -->
-
-<!-- ACHIEVEMENTS -->
-<h3 align="left">Achievements:</h3>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanr92" alt="juanr92" /></a> </p>
